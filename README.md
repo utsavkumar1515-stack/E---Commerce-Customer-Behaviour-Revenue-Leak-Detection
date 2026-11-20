@@ -255,12 +255,4 @@ E-Commerce-Sales-Customer-Analytics
 
 This project shows a complete analytics workflow: cleaning 536,641 transactions with Python, analyzing them with SQL in MySQL, and presenting KPIs and insights in an interactive Power BI dashboard to support business decisions.
 
----
 
-## 👨‍💻 Author
-
-**Durgampudi S V Krishna Reddy**
-MCA — Data Analyst
-
-📧 reddydsvkrishna@gmail.com
-🔗 [LinkedIn](https://linkedin.com/in/sv181002) | [GitHub](https://github.com/SV-181002)
