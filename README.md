@@ -235,19 +235,6 @@ E-Commerce-Sales-Customer-Analytics
 
 ---
 
-## ▶️ How to Run
-
-1. Clone the repository
-   ```
-   git clone https://github.com/SV-181002/ecommerce-sales-customer-analytics.git
-   ```
-2. Install the libraries
-   ```
-   pip install pandas numpy matplotlib seaborn jupyter
-   ```
-3. Run the notebook in the `python` folder to clean the data
-4. Load `data/cleaned_sales_mysql.csv` into a MySQL table named `sales`, then run `sql/ecommerce_final_analysis.sql`
-5. Open the `.pbix` file in Power BI Desktop
 
 ---
 
